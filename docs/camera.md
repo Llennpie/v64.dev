@@ -55,4 +55,4 @@ D133AFA2 0100
 8033B205 0033
 ```
 
-The *DPAD-UP*/*DPAD-DOWN* buttons control the freeze camera, while the *DPAD-LEFT*/*DPAD-DOWN* buttons control the soft-freeze camera.
+The *DPAD-UP*/*DPAD-DOWN* buttons control the freeze camera, while the *DPAD-LEFT*/*DPAD-RIGHT* buttons control the soft-freeze camera.
